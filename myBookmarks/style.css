@@ -17,6 +17,9 @@ kbd > button{
     right: 0; 
     bottom: 0; 
     display: none; 
+    border-radius: 4px;
+    font-family: cursive;
+    border-width: 0;
 }
 kbd:hover > button{
     display: inline-block; 
